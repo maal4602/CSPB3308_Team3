@@ -17,11 +17,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\I am the product manager<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I open the "Project Status" page<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\An overview of completed tasks, tasks in progress and tasks to be started are shown <br><br>
 	
 <hr><hr><br><br>
 
@@ -43,11 +43,13 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\That I am in the role of a script creator and data extractor<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I make a script that gets desired information from websites<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\I run the script and get data from websites
+And the data is filled in tables
+And the tables get stored in a database<br><br>
 	
 <hr><hr><br><br>
 
@@ -69,11 +71,12 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\That I am in the role of a programmer and data collector<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I create a program that collects data from files<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\I run the program and get data from files
+And I summarize the received data in a simple format<br><br>
 	
 <hr><hr><br><br>
 
@@ -95,11 +98,12 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\A datasource.<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I receive an example of the data, the data structure, metadata (including unique identifiers, PK and FK information) and the context for data use (i.e. reporting type).<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\I will define the number of tables, table names, column names and datatypes, and provide an ERD that demonstrates the relationships between the tables.
+<br><br>
 	
 <hr><hr><br><br>
 
@@ -121,11 +125,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\that I'm a team member<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I open our team github<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\I should have all the resources necessary to understand the project web page structure and needed features. <br><br>
 	
 <hr><hr><br><br>
 
@@ -147,11 +151,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\I am a stakeholder<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I log onto the github page for this project<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\The overall code is available to be inspected and a readme is present to explain the big picture layout of the project<br><br>
 	
 <hr><hr><br><br>
 
@@ -173,11 +177,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\Access to the Asana Project Management tool<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\I have a question about the status of the team project<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\I want to be able to identify what tasks are in progress, completed or blocked,  who is completing them, update the status of my tasks and comment on tasks<br><br>
 	
 <hr><hr><br><br>
 
@@ -199,11 +203,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\I can add my new progress on my end, then the progress is going to be updating all static templates of web pages layout and styles on the backend server. The templates are going to be accessible to all team members.  <br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\Once I save my file on an app. <br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\The static templates of the webpages are going be updated with all progress that I have made. <br><br>
 	
 <hr><hr><br><br>
 
